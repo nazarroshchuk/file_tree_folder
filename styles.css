@@ -1,0 +1,13 @@
+/* TODO: your styles goes here*/
+ul {
+    list-style: none;
+    line-height: 20px;
+}
+.material-icons {
+    font-size: 20px;
+    color: goldenrod;
+    vertical-align: sub;
+}
+.material-icons.color {
+    color: darkgrey;
+}
